@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 10ec5a6ca561fce49920a786c7942f4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1576504083625665039
+    second: Daisy_0
+  - first:
+      213: -1433527860787534286
+    second: Daisy_1
+  - first:
+      213: -4254600053720032883
+    second: Daisy_2
+  - first:
+      213: 8098490981640105277
+    second: Daisy_3
+  - first:
+      213: -8656831118719771278
+    second: Daisy_4
+  - first:
+      213: -8291608452868784060
+    second: Daisy_5
+  - first:
+      213: 6081430064463118077
+    second: Daisy_6
+  - first:
+      213: -2703244193631711768
+    second: Daisy_7
+  - first:
+      213: 6595267103781906697
+    second: Daisy_8
+  - first:
+      213: -1079993878114684940
+    second: Daisy_9
+  - first:
+      213: 8152774427544986484
+    second: Daisy_10
+  - first:
+      213: -8280434614644378765
+    second: Daisy_11
+  - first:
+      213: -8651181899559985746
+    second: Daisy_12
+  - first:
+      213: 8997997109888560800
+    second: Daisy_13
+  - first:
+      213: -6949334128906218007
+    second: Daisy_14
+  - first:
+      213: -8874444843105496377
+    second: Daisy_15
+  - first:
+      213: 5780500509836838491
+    second: Daisy_16
+  - first:
+      213: 6499159776017828317
+    second: Daisy_17
+  - first:
+      213: -1669721590845127269
+    second: Daisy_18
+  - first:
+      213: 2701804716995496569
+    second: Daisy_19
+  - first:
+      213: 4842179434332208916
+    second: Daisy_20
+  - first:
+      213: -1356074531933586537
+    second: Daisy_21
+  - first:
+      213: -1316966026403207430
+    second: Daisy_22
+  - first:
+      213: 8378870499364316381
+    second: Daisy_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Daisy_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd1a8c73e12f1ae0800000000000000
+      internalID: -1576504083625665039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 73
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236222a71061b1ce0800000000000000
+      internalID: -1433527860787534286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89d8a00bcf94f4c0800000000000000
+      internalID: -4254600053720032883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dec51e3ae936070800000000000000
+      internalID: 8098490981640105277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 73
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d1920a6f1ccd780800000000000000
+      internalID: -8656831118719771278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 73
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440412efa0a4eec80800000000000000
+      internalID: -8291608452868784060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe74be3c64956450800000000000000
+      internalID: 6081430064463118077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 49
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edc1717ab52c7ad0800000000000000
+      internalID: -2703244193631711768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9096db7dc78178b50800000000000000
+      internalID: 6595267103781906697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffa0673a471301f0800000000000000
+      internalID: -1079993878114684940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47325b78529742170800000000000000
+      internalID: 8152774427544986484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 49
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373f540f69cf51d80800000000000000
+      internalID: -8280434614644378765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 27
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead1075f5e3d0f780800000000000000
+      internalID: -8651181899559985746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae26e0b2be4fdc70800000000000000
+      internalID: 8997997109888560800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5db0dcd610f8f90800000000000000
+      internalID: -6949334128906218007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c256eb1f63a7d480800000000000000
+      internalID: -8874444843105496377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 25
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b560ac85696783050800000000000000
+      internalID: 5780500509836838491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 25
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9cc0cd167a13a50800000000000000
+      internalID: 6499159776017828317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9540e74f05f3d8e0800000000000000
+      internalID: -1669721590845127269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97acdf8431dbe7520800000000000000
+      internalID: 2701804716995496569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fb2126a80e23340800000000000000
+      internalID: 4842179434332208916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bf423e5614e2de0800000000000000
+      internalID: -1356074531933586537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6aaf6606239bde0800000000000000
+      internalID: -1316966026403207430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd42c95735ab74470800000000000000
+      internalID: 8378870499364316381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Daisy_0: -1576504083625665039
+      Daisy_1: -1433527860787534286
+      Daisy_10: 8152774427544986484
+      Daisy_11: -8280434614644378765
+      Daisy_12: -8651181899559985746
+      Daisy_13: 8997997109888560800
+      Daisy_14: -6949334128906218007
+      Daisy_15: -8874444843105496377
+      Daisy_16: 5780500509836838491
+      Daisy_17: 6499159776017828317
+      Daisy_18: -1669721590845127269
+      Daisy_19: 2701804716995496569
+      Daisy_2: -4254600053720032883
+      Daisy_20: 4842179434332208916
+      Daisy_21: -1356074531933586537
+      Daisy_22: -1316966026403207430
+      Daisy_23: 8378870499364316381
+      Daisy_3: 8098490981640105277
+      Daisy_4: -8656831118719771278
+      Daisy_5: -8291608452868784060
+      Daisy_6: 6081430064463118077
+      Daisy_7: -2703244193631711768
+      Daisy_8: 6595267103781906697
+      Daisy_9: -1079993878114684940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

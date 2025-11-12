@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Floor
+  - Coin
+  - Spikes
   layers:
   - Default
   - TransparentFX
@@ -41,6 +43,15 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3822065821
+    locked: 0
+  - name: midbackground
+    uniqueID: 1429341877
+    locked: 0
+  - name: foreground
+    uniqueID: 4250413757
     locked: 0
   m_RenderingLayers:
   - Default

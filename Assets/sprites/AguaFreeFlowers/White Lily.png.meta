@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 7588c328fcb47d0458401d12e4eeced9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4149490192723307989
+    second: White Lily_0
+  - first:
+      213: 6888355058232649745
+    second: White Lily_1
+  - first:
+      213: 7687383201744667265
+    second: White Lily_2
+  - first:
+      213: 827679014533517048
+    second: White Lily_3
+  - first:
+      213: 7742531986144816450
+    second: White Lily_4
+  - first:
+      213: -211451982844397345
+    second: White Lily_5
+  - first:
+      213: 5773084434698985998
+    second: White Lily_6
+  - first:
+      213: -5564641971840967255
+    second: White Lily_7
+  - first:
+      213: -7177236222712213608
+    second: White Lily_8
+  - first:
+      213: -4107046303240713640
+    second: White Lily_9
+  - first:
+      213: -5444883408984669056
+    second: White Lily_10
+  - first:
+      213: 504498244610454294
+    second: White Lily_11
+  - first:
+      213: 7365129911964053825
+    second: White Lily_12
+  - first:
+      213: -5470442607158709137
+    second: White Lily_13
+  - first:
+      213: -8358084797204440146
+    second: White Lily_14
+  - first:
+      213: 7875178708581088651
+    second: White Lily_15
+  - first:
+      213: -3379093609555709474
+    second: White Lily_16
+  - first:
+      213: 4728778893722918231
+    second: White Lily_17
+  - first:
+      213: 2486066338348349962
+    second: White Lily_18
+  - first:
+      213: 7207072077406451272
+    second: White Lily_19
+  - first:
+      213: -4647683896677367737
+    second: White Lily_20
+  - first:
+      213: -4056426583754504546
+    second: White Lily_21
+  - first:
+      213: -2821883373978030864
+    second: White Lily_22
+  - first:
+      213: -1028272351882981637
+    second: White Lily_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White Lily_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd6d386853f59930800000000000000
+      internalID: 4149490192723307989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 73
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118e8bced6a589f50800000000000000
+      internalID: 6888355058232649745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182cb40ea421faa60800000000000000
+      internalID: 7687383201744667265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fec051bda18c7b00800000000000000
+      internalID: 827679014533517048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 73
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24de248d1dff27b60800000000000000
+      internalID: 7742531986144816450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 73
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8f18bba85c01df0800000000000000
+      internalID: -211451982844397345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e19cc4bd1e1050800000000000000
+      internalID: 5773084434698985998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 49
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad903efb9b66c2b0800000000000000
+      internalID: -5564641971840967255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f0c2c9ea5556c90800000000000000
+      internalID: -7177236222712213608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a8143b527d007c0800000000000000
+      internalID: -4107046303240713640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0840d044363ef64b0800000000000000
+      internalID: -5444883408984669056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 49
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61370d30b76500700800000000000000
+      internalID: 504498244610454294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 27
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141b83ff1a2363660800000000000000
+      internalID: 7365129911964053825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64b424be651514b0800000000000000
+      internalID: -5470442607158709137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 26
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5904f82e120c80800000000000000
+      internalID: -8358084797204440146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 26
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8df1bb9f414a4d60800000000000000
+      internalID: 7875178708581088651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 25
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1b3abe34c0b11d0800000000000000
+      internalID: -3379093609555709474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 25
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d18b5895fff9140800000000000000
+      internalID: 4728778893722918231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a3f49b928408220800000000000000
+      internalID: 2486066338348349962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846b274aed9a40460800000000000000
+      internalID: 7207072077406451272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7400e36de1c108fb0800000000000000
+      internalID: -4647683896677367737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e968cd1938da4b7c0800000000000000
+      internalID: -4056426583754504546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc6578b508a6d8d0800000000000000
+      internalID: -2821883373978030864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Lily_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfec8a57eb7dab1f0800000000000000
+      internalID: -1028272351882981637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White Lily_0: 4149490192723307989
+      White Lily_1: 6888355058232649745
+      White Lily_10: -5444883408984669056
+      White Lily_11: 504498244610454294
+      White Lily_12: 7365129911964053825
+      White Lily_13: -5470442607158709137
+      White Lily_14: -8358084797204440146
+      White Lily_15: 7875178708581088651
+      White Lily_16: -3379093609555709474
+      White Lily_17: 4728778893722918231
+      White Lily_18: 2486066338348349962
+      White Lily_19: 7207072077406451272
+      White Lily_2: 7687383201744667265
+      White Lily_20: -4647683896677367737
+      White Lily_21: -4056426583754504546
+      White Lily_22: -2821883373978030864
+      White Lily_23: -1028272351882981637
+      White Lily_3: 827679014533517048
+      White Lily_4: 7742531986144816450
+      White Lily_5: -211451982844397345
+      White Lily_6: 5773084434698985998
+      White Lily_7: -5564641971840967255
+      White Lily_8: -7177236222712213608
+      White Lily_9: -4107046303240713640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

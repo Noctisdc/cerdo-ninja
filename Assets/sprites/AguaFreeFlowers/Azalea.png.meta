@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 3d90978d55cc6514096571efd04cb173
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4535340364792558956
+    second: Azalea_0
+  - first:
+      213: 5223145662667200034
+    second: Azalea_1
+  - first:
+      213: -4721118171242437700
+    second: Azalea_2
+  - first:
+      213: -535044026155696473
+    second: Azalea_3
+  - first:
+      213: 8497037405516751194
+    second: Azalea_4
+  - first:
+      213: -2211687705768402479
+    second: Azalea_5
+  - first:
+      213: 739937432311929935
+    second: Azalea_6
+  - first:
+      213: -2365839186172975973
+    second: Azalea_7
+  - first:
+      213: -1345812799744790050
+    second: Azalea_8
+  - first:
+      213: -7154812151626199600
+    second: Azalea_9
+  - first:
+      213: -8397576491229986064
+    second: Azalea_10
+  - first:
+      213: 1697818904226427059
+    second: Azalea_11
+  - first:
+      213: 3370076206985392786
+    second: Azalea_12
+  - first:
+      213: 7033260313480620831
+    second: Azalea_13
+  - first:
+      213: -8085316205697480361
+    second: Azalea_14
+  - first:
+      213: -2702675013150391786
+    second: Azalea_15
+  - first:
+      213: 6206496845961048370
+    second: Azalea_16
+  - first:
+      213: 4838424898438985371
+    second: Azalea_17
+  - first:
+      213: 5313962838393901393
+    second: Azalea_18
+  - first:
+      213: -2401888840638071550
+    second: Azalea_19
+  - first:
+      213: 5042567147790390202
+    second: Azalea_20
+  - first:
+      213: -3675987855927355461
+    second: Azalea_21
+  - first:
+      213: 5427197080540673146
+    second: Azalea_22
+  - first:
+      213: 8383574652507803092
+    second: Azalea_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Azalea_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a8c0da7fb3f01c0800000000000000
+      internalID: -4535340364792558956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 73
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22696698e475c7840800000000000000
+      internalID: 5223145662667200034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3e37c69083b7eb0800000000000000
+      internalID: -4721118171242437700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae7bc10b442398f0800000000000000
+      internalID: -535044026155696473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 73
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a516807408a8be570800000000000000
+      internalID: 8497037405516751194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 73
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d16397efb18e41e0800000000000000
+      internalID: -2211687705768402479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c97f0ac29c44a00800000000000000
+      internalID: 739937432311929935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 49
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94e5708bc9da2fd0800000000000000
+      internalID: -2365839186172975973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1b9099366b25de0800000000000000
+      internalID: -1345812799744790050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd0ca3814005bc90800000000000000
+      internalID: -7154812151626199600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2c01a6ca0d57b80800000000000000
+      internalID: -8397576491229986064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 49
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0fb574c4ddf8710800000000000000
+      internalID: 1697818904226427059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 27
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2923c5f647ae4ce20800000000000000
+      internalID: 3370076206985392786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b6dd5cdf82b9160800000000000000
+      internalID: 7033260313480620831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75941beafbf2bcf80800000000000000
+      internalID: -8085316205697480361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612c8d9156b2e7ad0800000000000000
+      internalID: -2702675013150391786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 25
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231371b7ff7e12650800000000000000
+      internalID: 6206496845961048370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 25
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b967cdf5fc9852340800000000000000
+      internalID: 4838424898438985371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15158140c0dfeb940800000000000000
+      internalID: 5313962838393901393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dfacf33d6caaed0800000000000000
+      internalID: -2401888840638071550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3d910ba1ccaf540800000000000000
+      internalID: 5042567147790390202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7dcc075844cfcc0800000000000000
+      internalID: -3675987855927355461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74f9af7df6415b40800000000000000
+      internalID: 5427197080540673146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azalea_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd42b67ab0785470800000000000000
+      internalID: 8383574652507803092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Azalea_0: -4535340364792558956
+      Azalea_1: 5223145662667200034
+      Azalea_10: -8397576491229986064
+      Azalea_11: 1697818904226427059
+      Azalea_12: 3370076206985392786
+      Azalea_13: 7033260313480620831
+      Azalea_14: -8085316205697480361
+      Azalea_15: -2702675013150391786
+      Azalea_16: 6206496845961048370
+      Azalea_17: 4838424898438985371
+      Azalea_18: 5313962838393901393
+      Azalea_19: -2401888840638071550
+      Azalea_2: -4721118171242437700
+      Azalea_20: 5042567147790390202
+      Azalea_21: -3675987855927355461
+      Azalea_22: 5427197080540673146
+      Azalea_23: 8383574652507803092
+      Azalea_3: -535044026155696473
+      Azalea_4: 8497037405516751194
+      Azalea_5: -2211687705768402479
+      Azalea_6: 739937432311929935
+      Azalea_7: -2365839186172975973
+      Azalea_8: -1345812799744790050
+      Azalea_9: -7154812151626199600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

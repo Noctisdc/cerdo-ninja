@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: b921d4e1bdfd3dc42b3ba68bfd4d66ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2655790655482551347
+    second: Hydrangea_0
+  - first:
+      213: 1383817049293103824
+    second: Hydrangea_1
+  - first:
+      213: 6831205349426899763
+    second: Hydrangea_2
+  - first:
+      213: 1396595228546387566
+    second: Hydrangea_3
+  - first:
+      213: 7103096827158807401
+    second: Hydrangea_4
+  - first:
+      213: 8287630148097622484
+    second: Hydrangea_5
+  - first:
+      213: -2031144024819491598
+    second: Hydrangea_6
+  - first:
+      213: -5867357550364017886
+    second: Hydrangea_7
+  - first:
+      213: 8923801698063785379
+    second: Hydrangea_8
+  - first:
+      213: 2817461144068657121
+    second: Hydrangea_9
+  - first:
+      213: 4889089748206462309
+    second: Hydrangea_10
+  - first:
+      213: 5928724253120708383
+    second: Hydrangea_11
+  - first:
+      213: -2784389706734449892
+    second: Hydrangea_12
+  - first:
+      213: -1117196974444027624
+    second: Hydrangea_13
+  - first:
+      213: 473599408281698816
+    second: Hydrangea_14
+  - first:
+      213: 8634684304539833367
+    second: Hydrangea_15
+  - first:
+      213: 965313213162511356
+    second: Hydrangea_16
+  - first:
+      213: -7216851232275644974
+    second: Hydrangea_17
+  - first:
+      213: -2367661586461876997
+    second: Hydrangea_18
+  - first:
+      213: -7977367614072142081
+    second: Hydrangea_19
+  - first:
+      213: 7868019618701316435
+    second: Hydrangea_20
+  - first:
+      213: 451087556709286258
+    second: Hydrangea_21
+  - first:
+      213: -5656330271398975316
+    second: Hydrangea_22
+  - first:
+      213: -1904106655097332854
+    second: Hydrangea_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hydrangea_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32926487cb42bd0800000000000000
+      internalID: -2655790655482551347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 73
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2ae39464e443310800000000000000
+      internalID: 1383817049293103824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ba65072115dce50800000000000000
+      internalID: 6831205349426899763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e438cf5f3b16310800000000000000
+      internalID: 1396595228546387566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 73
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96341043ee4439260800000000000000
+      internalID: 7103096827158807401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 73
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d14d2fb5b3930370800000000000000
+      internalID: 8287630148097622484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc1af8554defc3e0800000000000000
+      internalID: -2031144024819491598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 49
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bb8500565f29ea0800000000000000
+      internalID: -5867357550364017886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad9e133d56b7db70800000000000000
+      internalID: 8923801698063785379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef8da4abf1a91720800000000000000
+      internalID: 2817461144068657121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565a9d4f83989d340800000000000000
+      internalID: 4889089748206462309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 49
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fb086eb4f074250800000000000000
+      internalID: 5928724253120708383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 27
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bc6d5605cdb59d0800000000000000
+      internalID: -2784389706734449892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8116f1a554bee70f0800000000000000
+      internalID: -1117196974444027624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00247701720929600800000000000000
+      internalID: 473599408281698816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714dcbf50af84d770800000000000000
+      internalID: 8634684304539833367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 25
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbda8fb04b756d00800000000000000
+      internalID: 965313213162511356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 25
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddbe5f6a0898db90800000000000000
+      internalID: -7216851232275644974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc1a9ed450642fd0800000000000000
+      internalID: -2367661586461876997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff64680cb62ba4190800000000000000
+      internalID: -7977367614072142081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3511f7a1822d03d60800000000000000
+      internalID: 7868019618701316435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271814c2eb5924600800000000000000
+      internalID: 451087556709286258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8a9f0369da081b0800000000000000
+      internalID: -5656330271398975316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrangea_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b5778e5114395e0800000000000000
+      internalID: -1904106655097332854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hydrangea_0: -2655790655482551347
+      Hydrangea_1: 1383817049293103824
+      Hydrangea_10: 4889089748206462309
+      Hydrangea_11: 5928724253120708383
+      Hydrangea_12: -2784389706734449892
+      Hydrangea_13: -1117196974444027624
+      Hydrangea_14: 473599408281698816
+      Hydrangea_15: 8634684304539833367
+      Hydrangea_16: 965313213162511356
+      Hydrangea_17: -7216851232275644974
+      Hydrangea_18: -2367661586461876997
+      Hydrangea_19: -7977367614072142081
+      Hydrangea_2: 6831205349426899763
+      Hydrangea_20: 7868019618701316435
+      Hydrangea_21: 451087556709286258
+      Hydrangea_22: -5656330271398975316
+      Hydrangea_23: -1904106655097332854
+      Hydrangea_3: 1396595228546387566
+      Hydrangea_4: 7103096827158807401
+      Hydrangea_5: 8287630148097622484
+      Hydrangea_6: -2031144024819491598
+      Hydrangea_7: -5867357550364017886
+      Hydrangea_8: 8923801698063785379
+      Hydrangea_9: 2817461144068657121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
