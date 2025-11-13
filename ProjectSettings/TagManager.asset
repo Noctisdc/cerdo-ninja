@@ -7,6 +7,7 @@ TagManager:
   - Floor
   - Coin
   - Spikes
+  - Treasure
   layers:
   - Default
   - TransparentFX

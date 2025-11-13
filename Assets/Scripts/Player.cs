@@ -18,7 +18,10 @@ public class Player : MonoBehaviour
     private bool isGrounded;
 
     private int coins;
+
+    private int Treasure;
     public TMP_Text textCoins;
+    public TMP_Text textTreasure;
 
     void Start()
     {
@@ -63,6 +66,15 @@ public class Player : MonoBehaviour
         if (collision.transform.CompareTag("Spikes"))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+
+         if (collision.transform.CompareTag("Treasure"))
+        {
+            Destroy(collision.gameObject);
+            Treasure++;
+            textTreasure.text = Treasure.ToString();
+
+            
         }
 
     }
