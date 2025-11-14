@@ -23,6 +23,9 @@ public class Player : MonoBehaviour
     public TMP_Text textCoins;
     public TMP_Text textTreasure;
 
+    public GameObject deathScreenUI;
+
+
     void Start()
     {
         rb2D = GetComponent<Rigidbody2D>();
@@ -65,7 +68,8 @@ public class Player : MonoBehaviour
 
         if (collision.transform.CompareTag("Spikes"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            deathScreenUI.SetActive(true);
+            Time.timeScale = 0f;
         }
 
          if (collision.transform.CompareTag("Treasure"))
