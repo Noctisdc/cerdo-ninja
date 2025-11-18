@@ -25,6 +25,12 @@ public class Player : MonoBehaviour
 
     public GameObject deathScreenUI;
 
+    public GameObject WinScreenUI;
+
+    public int monedasNecesarias;
+
+
+
 
     void Start()
     {
@@ -76,9 +82,18 @@ public class Player : MonoBehaviour
         {
             Destroy(collision.gameObject);
             Treasure++;
-            textTreasure.text = Treasure.ToString();
+            textTreasure.text = Treasure.ToString();   
+        }
+        if (collision.transform.CompareTag("Portal"))
+        {
+         int monedasNecesarias = GameObject.FindGameObjectsWithTag("Coin").Length;
+         
+         if (monedasNecesarias == 0)
+            {
+                WinScreenUI.SetActive(true);
+                Time.timeScale = 0f;
+            }
 
-            
         }
 
     }
